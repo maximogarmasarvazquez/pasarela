@@ -1,3 +1,4 @@
+cp ~/pasarela/gas-token.txt /mnt/c/Users/Maximo/Documents/
 No files changed, compilation skipped
 
 Ran 5 tests for test/Counter.t.sol:CounterTest
